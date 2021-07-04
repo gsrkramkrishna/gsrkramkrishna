@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siva Rama Krishna. Good in Microservice Architecture applications development.
 - 👀 I’m interested in working on micro services architecture, IOT, DIY and multiple technologies.
 - 🌱 I’m currently learning AWS cloud architect and Kubernetes Developer course.
-- 💞️ I’m looking to collaborate on Raspberry Pi security camera.
+- 💞️ I’m looking to collaborate on IOT and Raspberry Pi.
 - 📫 How to reach me krishna.gun81@gmail.com
 
 <!---
